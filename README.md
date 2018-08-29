@@ -9,11 +9,15 @@ A curated list of awesome anomaly detection resources. Inspired by [awesome-arch
 In General, anomaly detection is also called `Novelty detection` or `Outlier detection`, `forgery detection`, and `out-of-distribution detection`.
 
 ## Table of Contents
-- [Time-series anomaly detection](#time-series anomaly detection)
-- Image-level anomaly detection
-  - classification target
-  - segmenatation target
+- [Time-series anomaly detection](#time-series-anomaly-detection)
+- Image-level anomaly detection(#image-level-anomaly-detection)
+  - classification target((#classification-target)
+  - segmenatation target(#segmenatation-target)
 
 ## Time-series anomaly detection
 
 ## Image-level anomaly detection
+
+### Classfication target
+
+### Segmenatation target
