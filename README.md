@@ -16,5 +16,7 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 ## Image-level anomaly detection
 
 ### Classification target
+- Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [[pdf]](https://arxiv.org/pdf/1706.02690.pdf)
+  - Shiyu Liang, Yixuan Li, R. Srikant. *[ICLR' 18]*
 
 ### Segmenatation target
