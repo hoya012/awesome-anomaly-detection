@@ -10,14 +10,14 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 
 ## Table of Contents
 - [Time-series anomaly detection](#time-series-anomaly-detection)
-- Image-level anomaly detection(#image-level-anomaly-detection)
-  - classification target((#classification-target)
-  - segmenatation target(#segmenatation-target)
+- [Image-level anomaly detection](#image-level-anomaly-detection)
+  - [Classification target](#classification-target)
+  - [Segmenatation target](#segmenatation-target)
 
 ## Time-series anomaly detection
 
 ## Image-level anomaly detection
 
-### Classfication target
+### Classification target
 
 ### Segmenatation target
