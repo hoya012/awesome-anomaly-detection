@@ -22,7 +22,7 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 - Learning Confidence for Out-of-Distribution Detection in Neural Networks | Terrance DeVries, et al. | **[Arxiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.04865.pdf)
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | Kimin Lee, et al. | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
 - Adversarially Learned One-Class Classifier for Novelty Detection [**ALOCC**] | Mohammad Sabokrou, et al. | **[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018)
-- Learning Deep Features for One-Class Classification | Pramuditha Perera, et al. | **[Arxiv' 18]** |   [[pdf]](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass)
+- Learning Deep Features for One-Class Classification | Pramuditha Perera, et al. | **[Arxiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass)
 - Efficient GAN-Based Anomaly Detection | Houssam Zenati, et al. | **[ICLR Workshop' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.06222.pdf)
 
 ### Segmenatation target
