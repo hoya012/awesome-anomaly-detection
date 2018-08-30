@@ -3,7 +3,9 @@ A curated list of awesome anomaly detection resources. Inspired by [awesome-arch
 *Last updated: 2018/8/29*
 
 ## What is anomaly detection?
-In General, anomaly detection is also called `Novelty detection` or `Outlier detection`, `forgery detection`, and `out-of-distribution detection`.
+Anomaly detection is a technique used to identify unusual patterns that do not conform to expected behavior, called outliers.  
+In General, anomaly detection is also called `Novelty detection` or `Outlier detection`, `Forgery detection`, `One class classification`, `One class segmentation` and `Out-of-distribution detection`. Each term has slightly different meanings. Mostly, on the assumption that you do not have unusual data, this problem is especially called `One class classification`, `One class segmentation`. 
+
 
 ## Table of Contents
 - [Time-series anomaly detection](#time-series-anomaly-detection)
@@ -18,6 +20,7 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 
 ### Classification target
 - A Survey of Recent Trends in One Class Classification | Shehroz S, et al. | **[AICS' 09]** |  [`[pdf]`](https://aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1472/camera_ready_occ_lnai.pdf?sequence=1)
+- A review of novelty detection | Marco A. F Pimentel et al. | **[Signal Processing' 14]** |  [`[link]`](https://www.sciencedirect.com/science/article/pii/S016516841300515X)
 - Transfer Representation-Learning for Anomaly Detection | Jerone T. A. Andrews, et al. | **[ICML' 16]** | [`[pdf]`](https://pdfs.semanticscholar.org/c533/52a4239568cc915ad968aff51c49924a3072.pdf)
 - Provable self-representation based outlier detection in a union of subspaces | Chong You, et al. | **[CVPR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1704.03925.pdf)
 - Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [**ODIN**] | Shiyu Liang, et al. | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
