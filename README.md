@@ -48,7 +48,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | Kimin Lee, et al. | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
 - Adversarially Learned One-Class Classifier for Novelty Detection [**ALOCC**] | Mohammad Sabokrou, et al. | **[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018)
 - Learning Deep Features for One-Class Classification | Pramuditha Perera, et al. | **[Arxiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass)
-- Efficient GAN-Based Anomaly Detection | Houssam Zenati, et al. | **[ICLR Workshop' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.06222.pdf)
+- Efficient GAN-Based Anomaly Detection | Houssam Zenati, et al. | **[Arxiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.06222.pdf)
 - Hierarchical Novelty Detection for Visual Object Recognition | Kibok Lee, et al. | **[CVPR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.00722.pdf)
 - Deep One-Class Classification | Lukas Ruff, el al. | **[ICML' 18]** | [`[pdf]`](http://data.bit.uni-bonn.de/publications/ICML2018.pdf)
 
