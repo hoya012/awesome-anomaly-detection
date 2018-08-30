@@ -26,9 +26,14 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
   - Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin. **[ICLR' 18]**
 - Adversarially Learned One-Class Classifier for Novelty Detection [**ALOCC**] [[pdf]](https://arxiv.org/pdf/1802.09088.pdf) [[code]](https://github.com/khalooei/ALOCC-CVPR2018)
   - Mohammad Sabokrou, Mohammad Khalooei, Mahmood Fathy, Ehsan Adeli. **[CVPR' 18]**
-
+- Learning Deep Features for One-Class Classification [[pdf]](https://arxiv.org/pdf/1801.05365.pdf) [[code]](https://github.com/PramuPerera/DeepOneClass)
+  - Pramuditha Perera, Vishal M. Patel. **[Arxiv' 18]**
+- Efficient GAN-Based Anomaly Detection [[pdf]](https://arxiv.org/pdf/1802.06222.pdf)
+  - Houssam Zenati, Chuan Sheng Foo, Bruno Lecouat, Gaurav Manek, Vijay Ramaseshan Chandrasekhar. **[ICLR Workshop' 18]**
 
 ### Segmenatation target
+- Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery [**AnoGAN**] [[pdf]](https://arxiv.org/pdf/1703.05921.pdf) 
+  - Thomas Schlegl, Philipp Seeböck, Sebastian M. Waldstein, Ursula Schmidt-Erfurth, Georg Langs. **[IPMI' 17]**
 - Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes [[pdf]](https://arxiv.org/pdf/1609.00866.pdf)
   - Mohammad Sabokrou, Mohsen Fayyaz, Mahmood Fathy, Zahra Moayedd, Reinhard klette. **[Journal of Computer Vision and Image Understanding' 17]**
 - Anomaly Detection using a Convolutional Winner-Take-All Autoencoder [[pdf]](http://eprints.whiterose.ac.uk/121891/1/BMVC2017.pdf)
@@ -38,5 +43,7 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 - An overview of deep learning based methods for unsupervised and semi-supervised anomaly detection in videos [[pdf]](https://arxiv.org/pdf/1801.03149.pdf)
   - B Ravi Kiran, Dilip Mathew Thomas, Ranjith Parakkal. **[Arxiv' 18]**
 - Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders [[pdf]](https://arxiv.org/pdf/1807.02011.pdf)
-  - Paul Bergmann, Sindy Löwe, Michael Fauser, David Sattlegger, and Carsten Steger. **[Arxiv' 18]**
-  
+   - Paul Bergmann, Sindy Löwe, Michael Fauser, David Sattlegger, and Carsten Steger. **[Arxiv' 18]**
+ - Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier [[pdf]](https://arxiv.org/pdf/1802.04881.pdf)
+   - Sri Kalyan Yarlagadda, David Güera, Paolo Bestagini, Fengqing Maggie Zhu, Stefano Tubaro, Edward J. Delp. **[IS&T EI' 18]**
+
