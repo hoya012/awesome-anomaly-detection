@@ -18,12 +18,14 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 ### Classification target
 - A Survey of Recent Trends in One Class Classification | Shehroz S, et al. | **[AICS' 09]** |  [`[pdf]`](https://aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1472/camera_ready_occ_lnai.pdf?sequence=1)
 - Transfer Representation-Learning for Anomaly Detection | Jerone T. A. Andrews, et al. | **[ICML' 16]** | [`[pdf]`](https://pdfs.semanticscholar.org/c533/52a4239568cc915ad968aff51c49924a3072.pdf)
+- Provable self-representation based outlier detection in a union of subspaces | Chong You, et al. | **[CVPR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1704.03925.pdf)
 - Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [**ODIN**] | Shiyu Liang, et al. | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
 - Learning Confidence for Out-of-Distribution Detection in Neural Networks | Terrance DeVries, et al. | **[Arxiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.04865.pdf)
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | Kimin Lee, et al. | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
 - Adversarially Learned One-Class Classifier for Novelty Detection [**ALOCC**] | Mohammad Sabokrou, et al. | **[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018)
 - Learning Deep Features for One-Class Classification | Pramuditha Perera, et al. | **[Arxiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass)
 - Efficient GAN-Based Anomaly Detection | Houssam Zenati, et al. | **[ICLR Workshop' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.06222.pdf)
+- Hierarchical Novelty Detection for Visual Object Recognition | Kibok Lee, et al. | **[CVPR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.00722.pdf)
 
 ### Segmenatation target
 - Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery  [**AnoGAN**] | Thomas Schlegl, et al. | **[IPMI' 17]** | [`[pdf]`](https://arxiv.org/pdf/1703.05921.pdf) 
@@ -33,5 +35,5 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 - Abnormal event detection in videos using generative adversarial nets | Mahdyar Ravanbakhsh, et al. |  **[ICIP' 17]** | [`[link]`](https://ieeexplore.ieee.org/document/8296547/)
 - An overview of deep learning based methods for unsupervised and semi-supervised anomaly detection in videos |  B Ravi Kiran, et al. | **[Arxiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1801.03149.pdf)
 - Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders | Paul Bergmann, et al. | **[Arxiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1807.02011.pdf)
- - Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier | Sri Kalyan Yarlagadda, et al. | **[IS&T EI' 18]** | [`[pdf]`](https://arxiv.org/pdf/1802.04881.pdf)
-
+- Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier | Sri Kalyan Yarlagadda, et al. | **[IS&T EI' 18]** | [`[pdf]`](https://arxiv.org/pdf/1802.04881.pdf)
+- Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images | Christoph Baur, et al. | **[Arxiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.04488.pdf)
