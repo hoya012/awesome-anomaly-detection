@@ -1,6 +1,6 @@
 # awesome-anomaly-detection[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
-*Last updated: 2018/8/29*
+*Last updated: 2018/8/30*
 
 ## What is anomaly detection?
 
