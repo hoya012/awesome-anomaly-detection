@@ -3,8 +3,14 @@ A curated list of awesome anomaly detection resources. Inspired by [awesome-arch
 *Last updated: 2018/8/29*
 
 ## What is anomaly detection?
-Anomaly detection is a technique used to identify unusual patterns that do not conform to expected behavior, called outliers.  
-In General, anomaly detection is also called `Novelty detection` or `Outlier detection`, `Forgery detection`, `One class classification`, `One class segmentation` and `Out-of-distribution detection`. Each term has slightly different meanings. Mostly, on the assumption that you do not have unusual data, this problem is especially called `One class classification`, `One class segmentation`. 
+Anomaly detection is a technique used to identify unusual patterns that do not conform to expected behavior, called outliers. 
+
+In general, Anomaly detection is also called `Novelty Detection` or `Outlier Detection`, `Forgery Detection`, `One Class Classification`, `One Class Segmentation` and `Out-of-distribution Detection`.   
+
+Each term has slightly different meanings. Mostly, on the assumption that you do not have unusual data, this problem is especially called `One Class Classification`, `One Class Segmentation`.  
+
+Also, there are two types of target data. (`time-series data`, and `image data`) 
+
 
 
 ## Table of Contents
