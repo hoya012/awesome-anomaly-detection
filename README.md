@@ -3,6 +3,11 @@ A curated list of awesome anomaly detection resources. Inspired by [`awesome-arc
 *Last updated: 2018/8/29*
 
 ## What is anomaly detection?
+
+<p align="center">
+  <img width="600" src="/assets/anomaly_detection_example.PNG" "Example of anomaly detection.">
+</p>
+
 Anomaly detection is a technique used to identify unusual patterns that do not conform to expected behavior, called outliers. Typically, this is treated as an unsupervised learning problem where the anomalous samples are not known a priori and it is assumed that the majority of the training dataset consists of “normal” data (here and elsewhere the term “normal” means *not anomalous* and is unrelated to the Gaussian distribution). [Lukas Ruff et al., 2018; Deep One-Class Classification]
 
 In general, Anomaly detection is also called `Novelty Detection` or `Outlier Detection`, `Forgery Detection` and `Out-of-distribution Detection`.   
@@ -11,8 +16,8 @@ Each term has slightly different meanings. Mostly, on the assumption that you do
 
 Also, there are two types of target data. (`time-series data`, and `image data`)  
 In time-series data, it is aimed to detect a abnormal sections or frames in input data. (ex, videos, signal, etc)  
-
 In image data, it is aimed to classify abnormal images or to segment abnormal regions, for example, defect in some manufacturing data.  
+
 
 
 ## Table of Contents
