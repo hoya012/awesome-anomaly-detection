@@ -26,7 +26,7 @@ In General, anomaly detection is also called `Novelty detection` or `Outlier det
 - Efficient GAN-Based Anomaly Detection | Houssam Zenati, et al. | **[ICLR Workshop' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.06222.pdf)
 
 ### Segmenatation target
-- Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery | Thomas Schlegl, et al. | **[IPMI' 17]** | [**AnoGAN**] [`[pdf]`](https://arxiv.org/pdf/1703.05921.pdf) 
+- Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery  [**AnoGAN**] | Thomas Schlegl, et al. | **[IPMI' 17]** | [`[pdf]`](https://arxiv.org/pdf/1703.05921.pdf) 
 - Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes | Mohammad Sabokrou, et al. | **[Journal of Computer Vision and Image Understanding' 17]** | [`[pdf]`](https://arxiv.org/pdf/1609.00866.pdf)
 - Anomaly Detection using a Convolutional Winner-Take-All Autoencoder | Hanh T. M. Tran, et al. | **[BMVC' 17]** |  [`[pdf]`](http://eprints.whiterose.ac.uk/121891/1/BMVC2017.pdf)
 - Anomaly Detection in Nanofibrous Materials by CNN-Based Self-Similarity | Paolo Napoletano , et al. | **[Sensors' 17]** | [`[pdf]`](http://www.mdpi.com/1424-8220/18/1/209/pdf)
