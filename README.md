@@ -24,7 +24,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - [Time-series anomaly detection](#time-series-anomaly-detection)
 - [Image-level anomaly detection](#image-level-anomaly-detection)
   - [Classification target](#classification-target)
-  - [Segmenatation target](#segmenatation-target)
+  - [Segmentation target](#segmenatation-target)
 
 ## Time-series anomaly detection
 - Anomaly Detection of Time Series | Deepthi Cheboli | **[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
@@ -55,7 +55,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Reliably Decoding Autoencoders’ Latent Spaces for One-Class Learning Image Inspection Scenarios | Daniel Soukup, Thomas Pinetz | **[OAGM Workshop' 18]** | [`[pdf]`](https://workshops.aapr.at/wp-content/uploads/Proceedings/2018/OAGM_2018_paper_19.pdf)
 - q-Space Novelty Detection with Variational Autoencoders | Aleksei Vasilev, et al. | **[Arxiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1806.02997.pdf)
 
-### Segmenatation target
+### Segmentation target
 - Anomaly Detection and Localization in Crowded Scenes | Weixin Li, et al. | **[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
 - Novelty detection in images by sparse representations | Giacomo Boracchi, et al. | **[IEEE Symposium on IES' 14]** | [`[link]`](https://ieeexplore.ieee.org/document/7008985/)
 - Detecting anomalous structures by convolutional sparse models | Diego Carrera, et al. | **[IJCNN' 15]** | [`[pdf]`](http://www.cs.tut.fi/~foi/papers/IJCNN2015-Carrera-Detecting_Anomalous_Structures.pdf)
