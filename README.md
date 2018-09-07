@@ -73,3 +73,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders | Paul Bergmann, et al. | **[Arxiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1807.02011.pdf)
 - Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier | Sri Kalyan Yarlagadda, et al. | **[IS&T EI' 18]** | [`[pdf]`](https://arxiv.org/pdf/1802.04881.pdf)
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images | Christoph Baur, et al. | **[Arxiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.04488.pdf)
+
+## Contact & Feedback
+If you have any suggenstions about papers, feel free to mail me :)
+- [hoya012](lee.hoseong@sualab.com)
