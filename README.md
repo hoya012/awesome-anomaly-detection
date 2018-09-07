@@ -76,4 +76,4 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
-- [hoya012](lee.hoseong@sualab.com)
+- [hoya012](mailto:lee.hoseong@sualab.com)
