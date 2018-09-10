@@ -30,6 +30,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Anomaly Detection of Time Series | Deepthi Cheboli | **[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
 - Time Series Anomaly Detection; Detection of anomalous drops with limited features and sparse examples in noisy highly periodic data | Dominique T. Shipmon, et al. | **[Arxiv' 17]** |   [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1708/1708.03665.pdf)
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | Yong Shean Chong, et al. | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
+- Anomaly Detection in Multivariate Non-stationary Time Series for Automatic DBMS Diagnosis | Doyup Lee | **[ICMLA' 17]** | [`[pdf]`](https://arxiv.org/abs/1708.02635)
 - Real-world Anomaly Detection in Surveillance Videos | Waqas Sultani, et al. | **[Arxiv' 18]** | [`[pdf]`](http://crcv.ucf.edu/cchen/anomaly_detection.pdf) [`[project page]`](http://crcv.ucf.edu/cchen/)
 
 ## Image-level anomaly detection
