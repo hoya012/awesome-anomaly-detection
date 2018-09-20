@@ -1,6 +1,6 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
-*Last updated: 2018/9/3*
+*Last updated: 2018/9/20*
 
 ## What is anomaly detection?
 
@@ -28,6 +28,8 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 
 ## Time-series anomaly detection
 - Anomaly Detection of Time Series | Deepthi Cheboli | **[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
+- Long short term memory networks for anomaly detection in time series | Pankaj Malhotra
+ et al. | **[ESANN' 15]** |[`[pdf]`](https://www.researchgate.net/publication/304782562_Long_Short_Term_Memory_Networks_for_Anomaly_Detection_in_Time_Series)
 - Time Series Anomaly Detection; Detection of anomalous drops with limited features and sparse examples in noisy highly periodic data | Dominique T. Shipmon, et al. | **[Arxiv' 17]** |   [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1708/1708.03665.pdf)
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | Yong Shean Chong, et al. | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 - Anomaly Detection in Multivariate Non-stationary Time Series for Automatic DBMS Diagnosis | Doyup Lee | **[ICMLA' 17]** | [`[pdf]`](https://arxiv.org/abs/1708.02635)
