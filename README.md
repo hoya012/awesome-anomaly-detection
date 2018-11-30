@@ -1,6 +1,6 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
-*Last updated: 2018/9/20*
+*Last updated: 2018/11/30*
 
 ## What is anomaly detection?
 
@@ -58,6 +58,12 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Deep One-Class Classification | Lukas Ruff, el al. | **[ICML' 18]** | [`[pdf]`](http://data.bit.uni-bonn.de/publications/ICML2018.pdf)
 - Reliably Decoding Autoencoders’ Latent Spaces for One-Class Learning Image Inspection Scenarios | Daniel Soukup, Thomas Pinetz | **[OAGM Workshop' 18]** | [`[pdf]`](https://workshops.aapr.at/wp-content/uploads/Proceedings/2018/OAGM_2018_paper_19.pdf)
 - q-Space Novelty Detection with Variational Autoencoders | Aleksei Vasilev, et al. | **[Arxiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1806.02997.pdf)
+- Out-of-Distribution Detection using Multiple Semantic Label Representations | Gabi Shalev, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations.pdf)
+- Deep Anomaly Detection Using Geometric Transformations | Izhak Golan, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8183-deep-anomaly-detection-using-geometric-transformations.pdf)
+- Generative Probabilistic Novelty Detection with Adversarial Autoencoders | Stanislav Pidhorskyi, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf)
+- A loss framework for calibrated anomaly detection | Aditya Krishna Menon, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7422-a-loss-framework-for-calibrated-anomaly-detection.pdf)
+- A Practical Algorithm for Distributed Clustering and Outlier Detection | Jiecao Chen, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7493-a-practical-algorithm-for-distributed-clustering-and-outlier-detection.pdf)
+- Efficient Anomaly Detection via Matrix Sketching | Vatsal Sharan, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8030-efficient-anomaly-detection-via-matrix-sketching.pdf)
 
 ### Segmentation target
 - Anomaly Detection and Localization in Crowded Scenes | Weixin Li, et al. | **[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
