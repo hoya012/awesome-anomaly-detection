@@ -26,7 +26,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
   - [Classification target](#classification-target)
   - [Segmentation target](#segmenatation-target)
 
-## Time-series anomaly detection
+## Time-series anomaly detection **(need to survey more..)**
 - Anomaly Detection of Time Series | Deepthi Cheboli | **[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
 - Long short term memory networks for anomaly detection in time series | Pankaj Malhotra
  et al. | **[ESANN' 15]** |[`[pdf]`](https://www.researchgate.net/publication/304782562_Long_Short_Term_Memory_Networks_for_Anomaly_Detection_in_Time_Series)
