@@ -1,6 +1,6 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
-*Last updated: 2018/12/26*
+*Last updated: 2019/01/09*
 
 ## What is anomaly detection?
 
