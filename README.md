@@ -61,6 +61,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Deep One-Class Classification | Lukas Ruff, el al. | **[ICML' 18]** | [`[pdf]`](http://data.bit.uni-bonn.de/publications/ICML2018.pdf)
 - Reliably Decoding Autoencoders’ Latent Spaces for One-Class Learning Image Inspection Scenarios | Daniel Soukup, Thomas Pinetz | **[OAGM Workshop' 18]** | [`[pdf]`](https://workshops.aapr.at/wp-content/uploads/Proceedings/2018/OAGM_2018_paper_19.pdf)
 - q-Space Novelty Detection with Variational Autoencoders | Aleksei Vasilev, et al. | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1806.02997.pdf)
+- GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training | Samet Akcay, et al. | **[ACCV' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1805.06725.pdf)
 - Out-of-Distribution Detection using Multiple Semantic Label Representations | Gabi Shalev, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations.pdf)
 - Deep Anomaly Detection Using Geometric Transformations | Izhak Golan, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8183-deep-anomaly-detection-using-geometric-transformations.pdf)
 - Generative Probabilistic Novelty Detection with Adversarial Autoencoders | Stanislav Pidhorskyi, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf)
