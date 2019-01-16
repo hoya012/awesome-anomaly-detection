@@ -1,6 +1,6 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
-*Last updated: 2019/01/09*
+*Last updated: 2019/01/16*
 
 ## What is anomaly detection?
 
@@ -34,6 +34,9 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | Yong Shean Chong, et al. | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 - Anomaly Detection in Multivariate Non-stationary Time Series for Automatic DBMS Diagnosis | Doyup Lee | **[ICMLA' 17]** | [`[pdf]`](https://arxiv.org/abs/1708.02635)
 - Real-world Anomaly Detection in Surveillance Videos | Waqas Sultani, et al. | **[arXiv' 18]** | [`[pdf]`](http://crcv.ucf.edu/cchen/anomaly_detection.pdf) [`[project page]`](http://crcv.ucf.edu/cchen/)
+- Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling | JiaYi Wei, et el. | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)
+- Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection | Yan Xu, et el. | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)
+
 
 ## Image-level anomaly detection
 
