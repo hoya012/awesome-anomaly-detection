@@ -36,7 +36,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Real-world Anomaly Detection in Surveillance Videos | Waqas Sultani, et al. | **[arXiv' 18]** | [`[pdf]`](http://crcv.ucf.edu/cchen/anomaly_detection.pdf) [`[project page]`](http://crcv.ucf.edu/cchen/)
 - Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling | JiaYi Wei, et al. | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)
 - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection | Yan Xu, et el. | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)
-- Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems | Aoudi et al. |   **[ACM CCCS '18]** | [`[pdf]`](https://research.chalmers.se/publication/507989/file/507989_Fulltext.pdf)
+- Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems | Aoudi et al. | **[ACM CCS '18]** | [`[pdf]`](https://research.chalmers.se/publication/507989/file/507989_Fulltext.pdf)
 
 ## Image-level anomaly detection
 
