@@ -73,6 +73,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - A Practical Algorithm for Distributed Clustering and Outlier Detection | Jiecao Chen, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7493-a-practical-algorithm-for-distributed-clustering-and-outlier-detection.pdf)
 - Efficient Anomaly Detection via Matrix Sketching | Vatsal Sharan, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8030-efficient-anomaly-detection-via-matrix-sketching.pdf)
 - A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | Kimin Lee, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)
+- Adversarially Learned Anomaly Detection | Houssam Zenati, et al. | **[IEEE ICDM' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1812.02288.pdf)
 - Deep Anomaly Detection with Outlier Exposure | Dan Hendrycks, et al. | **[ICLR' 19]** |  [`[pdf]`](https://openreview.net/pdf?id=HyxCxhRcY7)
 
 ### Segmentation target
@@ -92,6 +93,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders | Paul Bergmann, et al. | **[arXiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1807.02011.pdf)
 - Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier | Sri Kalyan Yarlagadda, et al. | **[IS&T EI' 18]** | [`[pdf]`](https://arxiv.org/pdf/1802.04881.pdf)
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images | Christoph Baur, et al. | **[arXiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.04488.pdf)
+- AVID: Adversarial Visual Irregularity Detection | Mohammad Sabokrou, et al. | **[arXiv' 18]** |[`[pdf]`](https://arxiv.org/pdf/1805.09521.pdf)
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
