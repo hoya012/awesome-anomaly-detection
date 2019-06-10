@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2019/03/19*
+*Last updated: 2019/06/10*
 
 ## What is anomaly detection?
 
@@ -75,6 +75,9 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | Kimin Lee, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)
 - Adversarially Learned Anomaly Detection | Houssam Zenati, et al. | **[IEEE ICDM' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1812.02288.pdf)
 - Deep Anomaly Detection with Outlier Exposure | Dan Hendrycks, et al. | **[ICLR' 19]** |  [`[pdf]`](https://openreview.net/pdf?id=HyxCxhRcY7)
+- Latent Space Autoregression for Novelty Detection | Davide Abati, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1807.01653.pdf)
+- OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations | Pramuditha Perera, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
+
 
 ### Segmentation target
 - Anomaly Detection and Localization in Crowded Scenes | Weixin Li, et al. | **[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
@@ -94,6 +97,10 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier | Sri Kalyan Yarlagadda, et al. | **[IS&T EI' 18]** | [`[pdf]`](https://arxiv.org/pdf/1802.04881.pdf)
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images | Christoph Baur, et al. | **[arXiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.04488.pdf)
 - AVID: Adversarial Visual Irregularity Detection | Mohammad Sabokrou, et al. | **[arXiv' 18]** |[`[pdf]`](https://arxiv.org/pdf/1805.09521.pdf)
+- MVTec AD -- A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection | Paul Bergmann, et al. | **[CVPR' 19]** |  [`[pdf]`](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
+- Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos | Romero Morais, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
+
+
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
