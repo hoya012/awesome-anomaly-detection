@@ -41,6 +41,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling | JiaYi Wei, et al. | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)
 - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection | Yan Xu, et el. | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)
 - Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems | Aoudi et al. | **[ACM CCS '18]** | [`[pdf]`](https://research.chalmers.se/publication/507989/file/507989_Fulltext.pdf)
+- Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos | Romero Morais, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
 
 ## Image-level anomaly detection
 
@@ -98,7 +99,6 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images | Christoph Baur, et al. | **[arXiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.04488.pdf)
 - AVID: Adversarial Visual Irregularity Detection | Mohammad Sabokrou, et al. | **[arXiv' 18]** |[`[pdf]`](https://arxiv.org/pdf/1805.09521.pdf)
 - MVTec AD -- A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection | Paul Bergmann, et al. | **[CVPR' 19]** |  [`[pdf]`](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
-- Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos | Romero Morais, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
 
 
 
