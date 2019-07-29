@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2019/06/10*
+*Last updated: 2019/07/29*
 
 ## What is anomaly detection?
 
@@ -42,6 +42,9 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection | Yan Xu, et el. | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)
 - Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems | Aoudi et al. | **[ACM CCS '18]** | [`[pdf]`](https://research.chalmers.se/publication/507989/file/507989_Fulltext.pdf)
 - Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos | Romero Morais, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
+- Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos | Kuldeep Marotirao Biradar, et al. | **[CVPRW' 19]** |  [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1906/1906.04574.pdf)
+- Motion-Aware Feature for Improved Video Anomaly Detection | Yi Zhu, Shawn Newsam | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
+- Time-Series Anomaly Detection Service at Microsoft | Hansheng Ren, et al. | **[KDD' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.03821v1.pdf)
 
 ## Image-level anomaly detection
 
@@ -76,6 +79,8 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | Kimin Lee, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)
 - Adversarially Learned Anomaly Detection | Houssam Zenati, et al. | **[IEEE ICDM' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1812.02288.pdf)
 - Deep Anomaly Detection with Outlier Exposure | Dan Hendrycks, et al. | **[ICLR' 19]** |  [`[pdf]`](https://openreview.net/pdf?id=HyxCxhRcY7)
+- Anomaly Detection With Multiple-Hypotheses Predictions | Duc Tam Nguyen, et al. | **[ICML' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1810.13292v5.pdf)
+- Exploring Deep Anomaly Detection Methods Based on Capsule Net | Xiaoyan Li, et al. | **[ICMLW' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.06312v1.pdf)
 - Latent Space Autoregression for Novelty Detection | Davide Abati, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1807.01653.pdf)
 - OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations | Pramuditha Perera, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
 
@@ -99,6 +104,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images | Christoph Baur, et al. | **[arXiv' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.04488.pdf)
 - AVID: Adversarial Visual Irregularity Detection | Mohammad Sabokrou, et al. | **[arXiv' 18]** |[`[pdf]`](https://arxiv.org/pdf/1805.09521.pdf)
 - MVTec AD -- A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection | Paul Bergmann, et al. | **[CVPR' 19]** |  [`[pdf]`](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
+- Exploiting Epistemic Uncertainty of Anatomy Segmentation for Anomaly Detection in Retinal OCT | Philipp Seeböck, et al. | **[IEEE TMI' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.12806v1.pdf)
 
 
 
