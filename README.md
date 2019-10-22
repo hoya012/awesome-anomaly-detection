@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2019/09/16*
+*Last updated: 2019/10/22*
 
 ## What is anomaly detection?
 
@@ -45,6 +45,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos | Kuldeep Marotirao Biradar, et al. | **[CVPRW' 19]** |  [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1906/1906.04574.pdf)
 - Motion-Aware Feature for Improved Video Anomaly Detection | Yi Zhu, Shawn Newsam | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
 - Time-Series Anomaly Detection Service at Microsoft | Hansheng Ren, et al. | **[KDD' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.03821v1.pdf)
+- A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | Lukas Ruff, et al. | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS)
 
 ## Image-level anomaly detection
 
