@@ -85,6 +85,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Latent Space Autoregression for Novelty Detection | Davide Abati, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1807.01653.pdf)
 - OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations | Pramuditha Perera, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
 - Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem | Matthias Hein, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1812.05720.pdf)
+- Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | Dan Hendrycks, et al. | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.12340) [`[code]`](https://github.com/hendrycks/ss-ood)
 
 
 ### Segmentation target
