@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2019/10/22*
+*Last updated: 2019/11/12*
 
 ## What is anomaly detection?
 
@@ -46,13 +46,14 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Motion-Aware Feature for Improved Video Anomaly Detection | Yi Zhu, Shawn Newsam | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
 - Time-Series Anomaly Detection Service at Microsoft | Hansheng Ren, et al. | **[KDD' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.03821v1.pdf)
 - A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | Lukas Ruff, et al. | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS)
+- MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams | Siddharth Bhatia, et al. | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf)  [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
 
 ## Image-level anomaly detection
 
-### Classification target
+### Anomaly Classification target
 - Estimating the Support of a High- Dimensional Distribution [**OC-SVM**] | Bernhard Schölkopf, et al. | **[Journal of Neural Computation' 01]** | [`[pdf]`](http://users.cecs.anu.edu.au/~williams/papers/P132.pdf)
 - A Survey of Recent Trends in One Class Classification | Shehroz S, et al. | **[AICS' 09]** |  [`[pdf]`](https://aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1472/camera_ready_occ_lnai.pdf?sequence=1)
-- Anomaly detection using au- toencoders with nonlinear dimensionality reduction | Mayu Sakurada, et al. | **[MLSDA Workshop' 14]** | [`[link]`](https://dl.acm.org/citation.cfm?id=2689747)
+- Anomaly detection using autoencoders with nonlinear dimensionality reduction | Mayu Sakurada, et al. | **[MLSDA Workshop' 14]** | [`[link]`](https://dl.acm.org/citation.cfm?id=2689747)
 - A review of novelty detection | Marco A. F Pimentel et al. | **[Signal Processing' 14]** |  [`[link]`](https://www.sciencedirect.com/science/article/pii/S016516841300515X)
 - Variational Autoencoder based Anomaly Detection using Reconstruction Probability | Jinwon An, Sungzoon Cho |  **[SNU DMC Tech' 15]** | [`[pdf]`](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)
 - High-dimensional and large-scale anomaly detection using a linear one-class SVM with deep learning | Sarah M. Erfani, et al. | **[Pattern Recognition' 16]** | [`[link]`](https://dl.acm.org/citation.cfm?id=2952200)
@@ -60,9 +61,6 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks | Dan Hendrycks, Kevin Gimpel | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
 - Outlier Detection with Autoencoder Ensembles | Chen, J, et al. | **[SDM' 17]** | [`[pdf]`](http://saketsathe.net/downloads/autoencode.pdf)
 - Provable self-representation based outlier detection in a union of subspaces | Chong You, et al. | **[CVPR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1704.03925.pdf)
-- Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [**ODIN**] | Shiyu Liang, et al. | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
-- Learning Confidence for Out-of-Distribution Detection in Neural Networks | Terrance DeVries, et al. | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.04865.pdf)
-- Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | Kimin Lee, et al. | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
 - Adversarially Learned One-Class Classifier for Novelty Detection [**ALOCC**] | Mohammad Sabokrou, et al. | **[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018)
 - Learning Deep Features for One-Class Classification | Pramuditha Perera, et al. | **[arXiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass)
 - Efficient GAN-Based Anomaly Detection | Houssam Zenati, et al. | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.06222.pdf)
@@ -71,24 +69,28 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Reliably Decoding Autoencoders’ Latent Spaces for One-Class Learning Image Inspection Scenarios | Daniel Soukup, Thomas Pinetz | **[OAGM Workshop' 18]** | [`[pdf]`](https://workshops.aapr.at/wp-content/uploads/Proceedings/2018/OAGM_2018_paper_19.pdf)
 - q-Space Novelty Detection with Variational Autoencoders | Aleksei Vasilev, et al. | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1806.02997.pdf)
 - GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training | Samet Akcay, et al. | **[ACCV' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1805.06725.pdf)
-- Out-of-Distribution Detection using Multiple Semantic Label Representations | Gabi Shalev, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations.pdf)
 - Deep Anomaly Detection Using Geometric Transformations | Izhak Golan, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8183-deep-anomaly-detection-using-geometric-transformations.pdf)
 - Generative Probabilistic Novelty Detection with Adversarial Autoencoders | Stanislav Pidhorskyi, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf)
 - A loss framework for calibrated anomaly detection | Aditya Krishna Menon, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7422-a-loss-framework-for-calibrated-anomaly-detection.pdf)
 - A Practical Algorithm for Distributed Clustering and Outlier Detection | Jiecao Chen, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7493-a-practical-algorithm-for-distributed-clustering-and-outlier-detection.pdf)
 - Efficient Anomaly Detection via Matrix Sketching | Vatsal Sharan, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8030-efficient-anomaly-detection-via-matrix-sketching.pdf)
-- A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | Kimin Lee, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)
 - Adversarially Learned Anomaly Detection | Houssam Zenati, et al. | **[IEEE ICDM' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1812.02288.pdf)
-- Deep Anomaly Detection with Outlier Exposure | Dan Hendrycks, et al. | **[ICLR' 19]** |  [`[pdf]`](https://openreview.net/pdf?id=HyxCxhRcY7)
 - Anomaly Detection With Multiple-Hypotheses Predictions | Duc Tam Nguyen, et al. | **[ICML' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1810.13292v5.pdf)
 - Exploring Deep Anomaly Detection Methods Based on Capsule Net | Xiaoyan Li, et al. | **[ICMLW' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.06312v1.pdf)
 - Latent Space Autoregression for Novelty Detection | Davide Abati, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1807.01653.pdf)
 - OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations | Pramuditha Perera, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
+
+### Out-Of-Distribution(OOD) Detction target
+- Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [**ODIN**] | Shiyu Liang, et al. | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
+- Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | Kimin Lee, et al. | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
+- Learning Confidence for Out-of-Distribution Detection in Neural Networks | Terrance DeVries, et al. | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.04865.pdf)
+- Out-of-Distribution Detection using Multiple Semantic Label Representations | Gabi Shalev, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations.pdf)
+- A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | Kimin Lee, et al. | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)
+- Deep Anomaly Detection with Outlier Exposure | Dan Hendrycks, et al. | **[ICLR' 19]** |  [`[pdf]`](https://openreview.net/pdf?id=HyxCxhRcY7)
 - Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem | Matthias Hein, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1812.05720.pdf)
 - Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | Dan Hendrycks, et al. | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.12340) [`[code]`](https://github.com/hendrycks/ss-ood)
 
-
-### Segmentation target
+### Anomaly Segmentation target
 - Anomaly Detection and Localization in Crowded Scenes | Weixin Li, et al. | **[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
 - Novelty detection in images by sparse representations | Giacomo Boracchi, et al. | **[IEEE Symposium on IES' 14]** | [`[link]`](https://ieeexplore.ieee.org/document/7008985/)
 - Detecting anomalous structures by convolutional sparse models | Diego Carrera, et al. | **[IJCNN' 15]** | [`[pdf]`](http://www.cs.tut.fi/~foi/papers/IJCNN2015-Carrera-Detecting_Anomalous_Structures.pdf)
