@@ -81,7 +81,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Latent Space Autoregression for Novelty Detection | Davide Abati, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1807.01653.pdf)
 - OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations | Pramuditha Perera, et al. | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
 
-### Out-Of-Distribution(OOD) Detction target
+### Out-of-Distribution(OOD) Detction target
 - Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks [**ODIN**] | Shiyu Liang, et al. | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | Kimin Lee, et al. | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
 - Learning Confidence for Out-of-Distribution Detection in Neural Networks | Terrance DeVries, et al. | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.04865.pdf)
