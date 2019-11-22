@@ -60,7 +60,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Transfer Representation-Learning for Anomaly Detection | **[ICML' 16]** | [`[pdf]`](https://pdfs.semanticscholar.org/c533/52a4239568cc915ad968aff51c49924a3072.pdf)
 - Outlier Detection with Autoencoder Ensembles  | **[SDM' 17]** | [`[pdf]`](http://saketsathe.net/downloads/autoencode.pdf)
 - Provable self-representation based outlier detection in a union of subspaces | **[CVPR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1704.03925.pdf)
-- Adversarially Learned One-Class Classifier for Novelty Detection [**ALOCC**] | **[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018)
+- [**ALOCC**]Adversarially Learned One-Class Classifier for Novelty Detection  | **[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018)
 - Learning Deep Features for One-Class Classification | **[arXiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass)
 - Efficient GAN-Based Anomaly Detection  | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.06222.pdf)
 - Hierarchical Novelty Detection for Visual Object Recognition  | **[CVPR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1804.00722.pdf)
