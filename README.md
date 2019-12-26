@@ -28,7 +28,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - [Image-level anomaly detection](#image-level-anomaly-detection)
   - [Anomaly Classification target](#anomaly-classification-target)
   - [Out-Of-Distribution(OOD) Detction target](#out-of-distributionood-detction-target)
-  - [Anomaly Segmentation target](#anomaly-segmenatation-target)
+  - [Anomaly Segmentation target](#anomaly-segmentation-target)
 
 ## Time-series anomaly detection **(need to survey more..)**
 - Anomaly Detection of Time Series  | **[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
