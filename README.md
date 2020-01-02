@@ -121,6 +121,6 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
-- [e-mail](mailto:lee.hoseong@sualab.com)
+- [e-mail](mailto:Hoseong.Lee@cognex.com)
 - [blog](https://hoya012.github.io/)
 - [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls)
