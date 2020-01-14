@@ -82,8 +82,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Unsupervised Learning of Anomaly Detection from Contaminated Image Data using Simultaneous Encoder Training | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.11034v2.pdf)
 - Classification-Based Anomaly Detection for General Data | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=H1lK_lBtvS)
 - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=rylb3eBtwr)
-- RaPP: Novelty Detection with Reconstruction along Projection Pathway   | **[ICLR' 20]** |  [`[pdf]`](RaPP: Novelty Detection with Reconstruction along Projection Pathway  
-)
+- RaPP: Novelty Detection with Reconstruction along Projection Pathway   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=HkgeGeBYDB)
 - Novelty Detection Via Blurring  | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=ByeNra4FDB)
 - Deep Semi-Supervised Anomaly Detection   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=HkgH0TEYwH)
 - Robust anomaly detection and backdoor attack detection via differential privacy   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SJx0q1rtvS)
