@@ -50,7 +50,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 
 ## Image-level anomaly detection
 
-### Anomaly Classification target
+### One Class (Anomaly) Classification target
 - Estimating the Support of a High- Dimensional Distribution [**OC-SVM**]  | **[Journal of Neural Computation' 01]** | [`[pdf]`](http://users.cecs.anu.edu.au/~williams/papers/P132.pdf)
 - A Survey of Recent Trends in One Class Classification  | **[AICS' 09]** |  [`[pdf]`](https://aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1472/camera_ready_occ_lnai.pdf?sequence=1)
 - Anomaly detection using autoencoders with nonlinear dimensionality reduction  | **[MLSDA Workshop' 14]** | [`[link]`](https://dl.acm.org/citation.cfm?id=2689747)
@@ -88,7 +88,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Robust anomaly detection and backdoor attack detection via differential privacy   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SJx0q1rtvS)
 
 
-### Out-of-Distribution(OOD) Detction target
+### Multi-Class Out-of-Distribution(OOD) Detction target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
 - [**ODIN**] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks  | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
@@ -103,7 +103,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
 
 
-### Anomaly Segmentation target
+### One Class (Anomaly) Segmentation target
 - Anomaly Detection and Localization in Crowded Scenes  | **[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
 - Novelty detection in images by sparse representations  | **[IEEE Symposium on IES' 14]** | [`[link]`](https://ieeexplore.ieee.org/document/7008985/)
 - Detecting anomalous structures by convolutional sparse models | **[IJCNN' 15]** | [`[pdf]`](http://www.cs.tut.fi/~foi/papers/IJCNN2015-Carrera-Detecting_Anomalous_Structures.pdf)
