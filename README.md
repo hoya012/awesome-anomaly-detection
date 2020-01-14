@@ -15,6 +15,12 @@ In general, Anomaly detection is also called `Novelty Detection` or `Outlier Det
 
 Each term has slightly different meanings. Mostly, on the assumption that you do not have unusual data, this problem is especially called `One Class Classification`, `One Class Segmentation`.  
 
+<p align="center">
+  <img width="600" src="/assets/ood_types.PNG" "Example of anomaly detection.">
+</p>
+
+and `Novelty Detection` and `Outlier Detection` have slightly different meanings. Figure below shows the differences of two terms.
+
 Also, there are two types of target data. (`time-series data`, and `image data`)  
 In time-series data, it is aimed to detect a abnormal sections or frames in input data. (ex, videos, signal, etc)  
 In image data, it is aimed to classify abnormal images or to segment abnormal regions, for example, defect in some manufacturing data.  
