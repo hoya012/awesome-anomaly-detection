@@ -85,7 +85,6 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Latent Space Autoregression for Novelty Detection | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1807.01653.pdf)
 - OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
 - Unsupervised Learning of Anomaly Detection from Contaminated Image Data using Simultaneous Encoder Training | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
-- Unsupervised Learning of Anomaly Detection from Contaminated Image Data using Simultaneous Encoder Training | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.11034v2.pdf)
 - Classification-Based Anomaly Detection for General Data | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=H1lK_lBtvS)
 - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=rylb3eBtwr)
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=HkgeGeBYDB)
