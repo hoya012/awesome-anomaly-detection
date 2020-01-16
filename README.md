@@ -16,7 +16,7 @@ In general, Anomaly detection is also called `Novelty Detection` or `Outlier Det
 Each term has slightly different meanings. Mostly, on the assumption that you do not have unusual data, this problem is especially called `One Class Classification`, `One Class Segmentation`.  
 
 <p align="center">
-  <img width="600" src="/assets/ood_types.PNG" "Example of anomaly detection.">
+  <img width="600" src="/assets/anomaly_detection_types.png" "Example of anomaly detection.">
 </p>
 
 and `Novelty Detection` and `Outlier Detection` have slightly different meanings. Figure below shows the differences of two terms.
