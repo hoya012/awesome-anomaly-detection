@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/01/16*
+*Last updated: 2020/01/31*
 
 ## What is anomaly detection?
 
@@ -93,7 +93,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Robust anomaly detection and backdoor attack detection via differential privacy   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SJx0q1rtvS)
 
 
-### Multi-Class Out-of-Distribution(OOD) Detction target
+### Out-of-Distribution(OOD) Detction target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
 - [**ODIN**] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks  | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
@@ -104,7 +104,6 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem  | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1812.05720.pdf)
 - Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.12340) [`[code]`](https://github.com/hendrycks/ss-ood)
 - Outlier Exposure with Confidence Control for Out-of-Distribution Detection | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.03509v2) [`[code]`](https://github.com/nazim1021/OOD-detection-using-OECC)
-- Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=rkeZIJBYvr)
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
 
 
