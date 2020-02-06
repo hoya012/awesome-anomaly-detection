@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/01/31*
+*Last updated: 2020/02/06*
 
 ## What is anomaly detection?
 
@@ -85,6 +85,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Latent Space Autoregression for Novelty Detection | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1807.01653.pdf)
 - OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.08550.pdf)
 - Unsupervised Learning of Anomaly Detection from Contaminated Image Data using Simultaneous Encoder Training | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.11034.pdf)
+- Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.12340) [`[code]`](https://github.com/hendrycks/ss-ood)
 - Classification-Based Anomaly Detection for General Data | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=H1lK_lBtvS)
 - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=rylb3eBtwr)
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=HkgeGeBYDB)
@@ -102,7 +103,6 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks  | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)
 - Deep Anomaly Detection with Outlier Exposure  | **[ICLR' 19]** |  [`[pdf]`](https://openreview.net/pdf?id=HyxCxhRcY7)
 - Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem  | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1812.05720.pdf)
-- Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.12340) [`[code]`](https://github.com/hendrycks/ss-ood)
 - Outlier Exposure with Confidence Control for Out-of-Distribution Detection | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.03509v2) [`[code]`](https://github.com/nazim1021/OOD-detection-using-OECC)
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
 
