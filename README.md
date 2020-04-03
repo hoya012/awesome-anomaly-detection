@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/02/27*
+*Last updated: 2020/04/03*
 
 ## What is anomaly detection?
 
@@ -26,8 +26,8 @@ In time-series data, it is aimed to detect a abnormal sections or frames in inpu
 In image data, it is aimed to classify abnormal images or to segment abnormal regions, for example, defect in some manufacturing data.  
 
 ## Survey Paper
-- Deep Learning for Anomaly Detection: A Survey | Raghavendra Chalapathy, Sanjay Chawla  | **[arXiv' 19]** |[`[pdf]`](https://arxiv.org/pdf/1901.03407.pdf)
-
+- Deep Learning for Anomaly Detection: A Survey  | **[arXiv' 19]** |[`[pdf]`](https://arxiv.org/pdf/1901.03407.pdf)
+- Anomalous Instance Detection in Deep Learning: A Survey | **[arXiv' 20]** |[`[pdf]`](https://arxiv.org/pdf/2003.06979.pdf)
 
 ## Table of Contents
 - [Time-series anomaly detection](#time-series-anomaly-detection)
@@ -51,7 +51,10 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos  | **[CVPRW' 19]** |  [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1906/1906.04574.pdf)
 - Motion-Aware Feature for Improved Video Anomaly Detection | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
 - Time-Series Anomaly Detection Service at Microsoft  | **[KDD' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.03821v1.pdf)
+- Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network  | **[KDD' 19]** |  [`[pdf]`](https://dl.acm.org/doi/10.1145/3292500.3330672)
 - A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS)
+- BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time | **[IJCAI 19]** | [`[pdf]`](https://www.ijcai.org/Proceedings/2019/0616.pdf)
+
 - MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf)  [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
 
 ## Image-level anomaly detection
