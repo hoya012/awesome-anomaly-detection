@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/04/03*
+*Last updated: 2020/05/07*
 
 ## What is anomaly detection?
 
@@ -94,8 +94,8 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=HkgeGeBYDB)
 - Novelty Detection Via Blurring  | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=ByeNra4FDB)
 - Deep Semi-Supervised Anomaly Detection   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=HkgH0TEYwH)
-- Robust anomaly detection and backdoor attack detection via differential privacy   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SJx0q1rtvS)
-
+- Robust anomaly detection and backdoor attack detection via differential privacy | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SJx0q1rtvS)
+- Classification-Based Anomaly Detection for General Data | **[ICLR' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2005.02359v1.pdf)
 
 ### Out-of-Distribution(OOD) Detction target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
