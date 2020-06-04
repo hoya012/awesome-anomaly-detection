@@ -78,7 +78,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - q-Space Novelty Detection with Variational Autoencoders  | **[arXiv' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1806.02997.pdf)
 - GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training | **[ACCV' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1805.06725.pdf)
 - Deep Anomaly Detection Using Geometric Transformations  | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8183-deep-anomaly-detection-using-geometric-transformations.pdf)
-- Generative Probabilistic Novelty Detection with Adversarial Autoencoders | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf)
+- Generative Probabilistic Novelty Detection with Adversarial Autoencoders | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf) [`[code]`](https://github.com/podgorskiy/GPND)
 - A loss framework for calibrated anomaly detection | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7422-a-loss-framework-for-calibrated-anomaly-detection.pdf)
 - A Practical Algorithm for Distributed Clustering and Outlier Detection | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7493-a-practical-algorithm-for-distributed-clustering-and-outlier-detection.pdf)
 - Efficient Anomaly Detection via Matrix Sketching  | **[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/8030-efficient-anomaly-detection-via-matrix-sketching.pdf)
