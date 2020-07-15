@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/05/07*
+*Last updated: 2020/07/15*
 
 ## What is anomaly detection?
 
@@ -31,6 +31,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 
 ## Table of Contents
 - [Time-series anomaly detection](#time-series-anomaly-detection)
+- [Video-level anomaly detection](#video-level-anomaly-detection)
 - [Image-level anomaly detection](#image-level-anomaly-detection)
   - [Anomaly Classification target](#anomaly-classification-target)
   - [Out-Of-Distribution(OOD) Detction target](#out-of-distributionood-detction-target)
@@ -41,21 +42,23 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Long short term memory networks for anomaly detection in time series | **[ESANN' 15]** |[`[pdf]`](https://www.researchgate.net/publication/304782562_Long_Short_Term_Memory_Networks_for_Anomaly_Detection_in_Time_Series)
  - LSTM-Based System-Call Language Modeling and Robust Ensemble Method for Designing Host-Based Intrusion Detection Systems | **[arXiv' 16]** |   [`[pdf]`](https://arxiv.org/pdf/1611.01726.pdf)
 - Time Series Anomaly Detection; Detection of anomalous drops with limited features and sparse examples in noisy highly periodic data | **[arXiv' 17]** |   [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1708/1708.03665.pdf)
-- Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 - Anomaly Detection in Multivariate Non-stationary Time Series for Automatic DBMS Diagnosis | **[ICMLA' 17]** | [`[pdf]`](https://arxiv.org/abs/1708.02635)
-- Real-world Anomaly Detection in Surveillance Videos | **[arXiv' 18]** | [`[pdf]`](http://crcv.ucf.edu/cchen/anomaly_detection.pdf) [`[project page]`](http://crcv.ucf.edu/cchen/)
-- Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)
-- Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection  | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)
 - Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems  | **[ACM CCS '18]** | [`[pdf]`](https://research.chalmers.se/publication/507989/file/507989_Fulltext.pdf)
-- Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos  | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
-- Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos  | **[CVPRW' 19]** |  [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1906/1906.04574.pdf)
-- Motion-Aware Feature for Improved Video Anomaly Detection | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
 - Time-Series Anomaly Detection Service at Microsoft  | **[KDD' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.03821v1.pdf)
 - Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network  | **[KDD' 19]** |  [`[pdf]`](https://dl.acm.org/doi/10.1145/3292500.3330672)
 - A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS)
 - BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time | **[IJCAI 19]** | [`[pdf]`](https://www.ijcai.org/Proceedings/2019/0616.pdf)
+- MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
 
-- MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf)  [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
+## Video-level anomaly detection
+- Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
+- Real-world Anomaly Detection in Surveillance Videos | **[arXiv' 18]** | [`[pdf]`](http://crcv.ucf.edu/cchen/anomaly_detection.pdf) [`[project page]`](http://crcv.ucf.edu/cchen/)
+- Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)
+- Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection  | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)
+- Motion-Aware Feature for Improved Video Anomaly Detection | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
+- Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos  | **[CVPRW' 19]** |  [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1906/1906.04574.pdf)
+- Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos  | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
+- Clustering-driven Deep Autoencoder for Video Anomaly Detection | **[ECCV' 20]** 
 
 ## Image-level anomaly detection
 
@@ -111,7 +114,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
 
 
-### One Class (Anomaly) Segmentation target
+### Unsupervised Anomaly Segmentation target
 - Anomaly Detection and Localization in Crowded Scenes  | **[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
 - Novelty detection in images by sparse representations  | **[IEEE Symposium on IES' 14]** | [`[link]`](https://ieeexplore.ieee.org/document/7008985/)
 - Detecting anomalous structures by convolutional sparse models | **[IJCNN' 15]** | [`[pdf]`](http://www.cs.tut.fi/~foi/papers/IJCNN2015-Carrera-Detecting_Anomalous_Structures.pdf)
@@ -132,9 +135,11 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - MVTec AD -- A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection | **[CVPR' 19]** |  [`[pdf]`](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
 - Exploiting Epistemic Uncertainty of Anatomy Segmentation for Anomaly Detection in Retinal OCT | **[IEEE TMI' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.12806v1.pdf)
 - Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1911.02357.pdf)
-- Attention Guided Anomaly Detection and Localization in Images | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
-
-
+- Attention Guided Anomaly Detection and Localization in Images | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
+- Mirrored Autoencoders with Simplex Interpolation for Unsupervised Anomaly Detection | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.10713)
+- Backpropagated Gradient Representations for Anomaly Detection	 | **[ECCV' 20]** 
+- Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images	 | **[ECCV' 20]** 
+- Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
