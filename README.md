@@ -58,6 +58,9 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Motion-Aware Feature for Improved Video Anomaly Detection | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
 - Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos  | **[CVPRW' 19]** |  [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1906/1906.04574.pdf)
 - Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos  | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
+- Graph Embedded Pose Clustering for Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Markovitz_Graph_Embedded_Pose_Clustering_for_Anomaly_Detection_CVPR_2020_paper.pdf)
+- Self-Trained Deep Ordinal Regression for End-to-End Video Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Self-Trained_Deep_Ordinal_Regression_for_End-to-End_Video_Anomaly_Detection_CVPR_2020_paper.pdf)
+- Learning Memory-Guided Normality for Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf)
 - Clustering-driven Deep Autoencoder for Video Anomaly Detection | **[ECCV' 20]** 
 
 ## Image-level anomaly detection
@@ -112,6 +115,8 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - Outlier Exposure with Confidence Control for Out-of-Distribution Detection | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.03509v2) [`[code]`](https://github.com/nazim1021/OOD-detection-using-OECC)
 - Likelihood Ratios for Out-of-Distribution Detection | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.02845.pdf)
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
+- Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)
+- A Boundary Based Out-Of-Distribution Classifier for Generalized Zero-Shot Learning | **[ECCV' 20]** 
 
 
 ### Unsupervised Anomaly Segmentation target
@@ -134,7 +139,7 @@ In image data, it is aimed to classify abnormal images or to segment abnormal re
 - AVID: Adversarial Visual Irregularity Detection  | **[arXiv' 18]** |[`[pdf]`](https://arxiv.org/pdf/1805.09521.pdf)
 - MVTec AD -- A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection | **[CVPR' 19]** |  [`[pdf]`](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
 - Exploiting Epistemic Uncertainty of Anatomy Segmentation for Anomaly Detection in Retinal OCT | **[IEEE TMI' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.12806v1.pdf)
-- Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1911.02357.pdf)
+- Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf)
 - Attention Guided Anomaly Detection and Localization in Images | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
 - Mirrored Autoencoders with Simplex Interpolation for Unsupervised Anomaly Detection | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.10713)
 - Backpropagated Gradient Representations for Anomaly Detection	 | **[ECCV' 20]** 
