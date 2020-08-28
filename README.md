@@ -62,7 +62,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Self-Trained Deep Ordinal Regression for End-to-End Video Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Self-Trained_Deep_Ordinal_Regression_for_End-to-End_Video_Anomaly_Detection_CVPR_2020_paper.pdf)
 - Learning Memory-Guided Normality for Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf)
 - Clustering-driven Deep Autoencoder for Video Anomaly Detection | **[ECCV' 20]** 
-- Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`pdf`](https://arxiv.org/abs/2008.11988)
+- Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11988.pdf) | [`code`](https://github.com/yuguangnudt/VEC_VAD)
 
 ## Image-level anomaly detection
 
