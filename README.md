@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/07/15*
+*Last updated: 2020/09/22*
 
 ## What is anomaly detection?
 
@@ -59,11 +59,14 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Motion-Aware Feature for Improved Video Anomaly Detection | **[BMVC' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1907.10211v1.pdf)
 - Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos  | **[CVPRW' 19]** |  [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1906/1906.04574.pdf)
 - Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos  | **[CVPR' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1903.03295.pdf)
+- Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection | [CVPR'19] | [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.pdf)
 - Graph Embedded Pose Clustering for Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Markovitz_Graph_Embedded_Pose_Clustering_for_Anomaly_Detection_CVPR_2020_paper.pdf)
 - Self-Trained Deep Ordinal Regression for End-to-End Video Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Self-Trained_Deep_Ordinal_Regression_for_End-to-End_Video_Anomaly_Detection_CVPR_2020_paper.pdf)
-- Learning Memory-Guided Normality for Anomaly Detection | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf)
-- Clustering-driven Deep Autoencoder for Video Anomaly Detection | **[ECCV' 20]** 
+- Learning Memory-Guided Normality for Anomaly Detection | **[CVPR' 20]** | [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf)
+- Clustering-driven Deep Autoencoder for Video Anomaly Detection | **[ECCV' 20]** |[`[pdf]`](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf)
+- CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection | **[ECCV' 20]** |[`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)
 - Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11988.pdf) | [`code`](https://github.com/yuguangnudt/VEC_VAD)
+- A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11887.pdf)
 
 ## Image-level anomaly detection
 
@@ -105,6 +108,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Deep Semi-Supervised Anomaly Detection   | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=HkgH0TEYwH)
 - Robust anomaly detection and backdoor attack detection via differential privacy | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SJx0q1rtvS)
 - Classification-Based Anomaly Detection for General Data | **[ICLR' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2005.02359v1.pdf)
+- Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
+- Deep End-to-End One-Class Classifier | **[IEEE TNNLS' 20]** |  [`[pdf]`](https://ieeexplore.ieee.org/document/9059022)
 
 ### Out-of-Distribution(OOD) Detction target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
