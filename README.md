@@ -52,7 +52,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Video-level anomaly detection
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
-- Real-world Anomaly Detection in Surveillance Videos | **[arXiv' 18]** | [`[pdf]`](http://crcv.ucf.edu/cchen/anomaly_detection.pdf) [`[project page]`](http://crcv.ucf.edu/cchen/)
+- Real-world Anomaly Detection in Surveillance Videos | **[arXiv' 18]** | [`[pdf]`](https://arxiv.org/abs/1801.04264) [`[project page]`](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
 - Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)
 - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection  | **[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)
 - Detecting Abnormality without Knowing Normality: A Two-stage Approach for Unsupervised Video Abnormal Event Detection | **[ACMMM' 18]** | [`[link]`](https://dl.acm.org/doi/10.1145/3240508.3240615)
@@ -67,7 +67,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 ## Image-level anomaly detection
 
 ### One Class (Anomaly) Classification target
-- Estimating the Support of a High- Dimensional Distribution [**OC-SVM**]  | **[Journal of Neural Computation' 01]** | [`[pdf]`](http://users.cecs.anu.edu.au/~williams/papers/P132.pdf)
+- Estimating the Support of a High- Dimensional Distribution [**OC-SVM**]  | **[Journal of Neural Computation' 01]** | [`[pdf]`](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.5955&rep=rep1&type=pdf)
 - A Survey of Recent Trends in One Class Classification  | **[AICS' 09]** |  [`[pdf]`](https://aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1472/camera_ready_occ_lnai.pdf?sequence=1)
 - Anomaly detection using autoencoders with nonlinear dimensionality reduction  | **[MLSDA Workshop' 14]** | [`[link]`](https://dl.acm.org/citation.cfm?id=2689747)
 - A review of novelty detection | **[Signal Processing' 14]** |  [`[link]`](https://www.sciencedirect.com/science/article/pii/S016516841300515X)
