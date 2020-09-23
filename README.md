@@ -28,6 +28,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 ## Survey Paper
 - Deep Learning for Anomaly Detection: A Survey  | **[arXiv' 19]** |[`[pdf]`](https://arxiv.org/pdf/1901.03407.pdf)
 - Anomalous Instance Detection in Deep Learning: A Survey | **[arXiv' 20]** |[`[pdf]`](https://arxiv.org/pdf/2003.06979.pdf)
+- Deep Learning for Anomaly Detection: A Review | **[arXiv' 20]** |[`[pdf]`](https://arxiv.org/pdf/2007.02500.pdf)
 
 ## Table of Contents
 - [Time-series anomaly detection](#time-series-anomaly-detection)
