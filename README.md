@@ -35,7 +35,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - [Video-level anomaly detection](#video-level-anomaly-detection)
 - [Image-level anomaly detection](#image-level-anomaly-detection)
   - [Anomaly Classification target](#anomaly-classification-target)
-  - [Out-Of-Distribution(OOD) Detction target](#out-of-distributionood-detction-target)
+  - [Out-Of-Distribution(OOD) Detection target](#out-of-distributionood-detection-target)
   - [Anomaly Segmentation target](#anomaly-segmentation-target)
 
 ## Time-series anomaly detection **(need to survey more..)**
@@ -112,7 +112,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
 - Deep End-to-End One-Class Classifier | **[IEEE TNNLS' 20]** |  [`[pdf]`](https://ieeexplore.ieee.org/document/9059022)
 
-### Out-of-Distribution(OOD) Detction target
+### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
 - [**ODIN**] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks  | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
