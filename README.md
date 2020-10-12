@@ -68,6 +68,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection | **[ECCV' 20]** |[`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)
 - Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11988.pdf) | [`code`](https://github.com/yuguangnudt/VEC_VAD)
 - A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11887.pdf)
+- Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
 
 ## Image-level anomaly detection
 
@@ -111,6 +112,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Classification-Based Anomaly Detection for General Data | **[ICLR' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2005.02359v1.pdf)
 - Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
 - Deep End-to-End One-Class Classifier | **[IEEE TNNLS' 20]** |  [`[pdf]`](https://ieeexplore.ieee.org/document/9059022)
+- Mirrored Autoencoders with Simplex Interpolation for Unsupervised Anomaly Detection | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.10713)
+- Backpropagated Gradient Representations for Anomaly Detection	 | **[ECCV' 20]** 
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
@@ -151,10 +154,9 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Exploiting Epistemic Uncertainty of Anatomy Segmentation for Anomaly Detection in Retinal OCT | **[IEEE TMI' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.12806v1.pdf)
 - Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf)
 - Attention Guided Anomaly Detection and Localization in Images | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
-- Mirrored Autoencoders with Simplex Interpolation for Unsupervised Anomaly Detection | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.10713)
-- Backpropagated Gradient Representations for Anomaly Detection	 | **[ECCV' 20]** 
 - Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images	 | **[ECCV' 20]** 
-- Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
+- Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **[arxiv]**[ `pdf`](https://arxiv.org/pdf/2005.02357.pdf)[`code`](https://github.com/byungjae89/SPADE-pytorch)
+- Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arxiv]**[`pdf`](https://arxiv.org/pdf/2006.16067.pdf)[`code`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
