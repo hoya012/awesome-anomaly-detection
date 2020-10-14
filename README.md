@@ -67,8 +67,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Learning Memory-Guided Normality for Anomaly Detection | **[CVPR' 20]** | [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf)
 - Clustering-driven Deep Autoencoder for Video Anomaly Detection | **[ECCV' 20]** |[`[pdf]`](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf)
 - CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection | **[ECCV' 20]** |[`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)
-- Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11988.pdf) | [`code`](https://github.com/yuguangnudt/VEC_VAD)
-- A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11887.pdf)
+- Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD)
+- A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11887.pdf)
 - Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
 
 ## Image-level anomaly detection
@@ -131,13 +131,13 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
 - Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)
 - A Boundary Based Out-Of-Distribution Classifier for Generalized Zero-Shot Learning | **[ECCV' 20]** |  [`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)
-- Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08473.pdf) | [`code`](https://gitlab.com/Bitterwolf/GOOD)
+- Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08473.pdf) | [`[code]`](https://gitlab.com/Bitterwolf/GOOD)
 - On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law  | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2005.09241.pdf)
 - Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2003.02977.pdf)
 - OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification | **[NeurIPS' 20]** 
 - Energy-based Out-of-distribution Detection | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2010.03759.pdf)
 - Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | **[NeurIPS' 20]** 
-- Why Normalizing Flows Fail to Detect Out-of-Distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.08545.pdf) | [`code`](https://github.com/PolinaKirichenko/flows_ood)
+- Why Normalizing Flows Fail to Detect Out-of-Distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.08545.pdf) | [`[code]`](https://github.com/PolinaKirichenko/flows_ood)
 - Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.10848.pdf)
 - Further Analysis of Outlier Detection with Deep Generative Models | **[NeurIPS' 20]** 
 
@@ -164,8 +164,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf)
 - Attention Guided Anomaly Detection and Localization in Images | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
 - Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images	 | **[ECCV' 20]** 
-- Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **[arxiv]** | [ `pdf`](https://arxiv.org/pdf/2005.02357.pdf) | [`code`](https://github.com/byungjae89/SPADE-pytorch)
-- Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arxiv]** | [`pdf`](https://arxiv.org/pdf/2006.16067.pdf) | [`code`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
+- Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **[arxiv]** | [ `[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch)
+- Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arxiv]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
