@@ -130,6 +130,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Likelihood Ratios for Out-of-Distribution Detection | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.02845.pdf)
 - Outlier Detection in Contingency Tables Using Decomposable Graphical Models | **[SJS' 19]** |  [`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1111/sjos.12407) [`[code]`](https://github.com/mlindsk/molic)
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
+- Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks | **[ICML Workshop' 20]** |  [`[pdf]`](https://arxiv.org/abs/2007.03212)
 - Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)
 - A Boundary Based Out-Of-Distribution Classifier for Generalized Zero-Shot Learning | **[ECCV' 20]** |  [`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)
 - Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08473.pdf) | [`[code]`](https://gitlab.com/Bitterwolf/GOOD)
