@@ -170,7 +170,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arxiv]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
 
 ## Contact & Feedback
-If you have any suggenstions about papers, feel free to mail me :)
+If you have any suggestions about papers, feel free to mail me :)
 - [e-mail](mailto:Hoseong.Lee@cognex.com)
 - [blog](https://hoya012.github.io/)
 - [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls)
