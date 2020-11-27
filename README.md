@@ -51,6 +51,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time | **[IJCAI 19]** | [`[pdf]`](https://www.ijcai.org/Proceedings/2019/0616.pdf)
 - MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
 - Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network | **[NeurIPS' 20]** 
+- Anomaly Detection of Time Series With Smoothness-Inducing Sequential Variational Auto-Encoder | **[TNNLS' 20]**
 
 ## Video-level anomaly detection
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
