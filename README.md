@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/09/22*
+*Last updated: 2020/10/16*
 
 ## What is anomaly detection?
 
@@ -35,7 +35,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - [Video-level anomaly detection](#video-level-anomaly-detection)
 - [Image-level anomaly detection](#image-level-anomaly-detection)
   - [Anomaly Classification target](#anomaly-classification-target)
-  - [Out-Of-Distribution(OOD) Detction target](#out-of-distributionood-detction-target)
+  - [Out-Of-Distribution(OOD) Detection target](#out-of-distributionood-detection-target)
   - [Anomaly Segmentation target](#anomaly-segmentation-target)
 
 ## Time-series anomaly detection **(need to survey more..)**
@@ -50,6 +50,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS)
 - BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time | **[IJCAI 19]** | [`[pdf]`](https://www.ijcai.org/Proceedings/2019/0616.pdf)
 - MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
+- Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network | **[NeurIPS' 20]** 
+- Anomaly Detection of Time Series With Smoothness-Inducing Sequential Variational Auto-Encoder | **[TNNLS' 20]**
 
 ## Video-level anomaly detection
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
@@ -66,8 +68,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Learning Memory-Guided Normality for Anomaly Detection | **[CVPR' 20]** | [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf)
 - Clustering-driven Deep Autoencoder for Video Anomaly Detection | **[ECCV' 20]** |[`[pdf]`](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf)
 - CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection | **[ECCV' 20]** |[`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)
-- Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11988.pdf) | [`code`](https://github.com/yuguangnudt/VEC_VAD)
-- A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`pdf`](https://arxiv.org/pdf/2008.11887.pdf)
+- Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD)
+- A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11887.pdf)
 - Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
 
 ## Image-level anomaly detection
@@ -114,8 +116,9 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Deep End-to-End One-Class Classifier | **[IEEE TNNLS' 20]** |  [`[pdf]`](https://ieeexplore.ieee.org/document/9059022)
 - Mirrored Autoencoders with Simplex Interpolation for Unsupervised Anomaly Detection | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.10713)
 - Backpropagated Gradient Representations for Anomaly Detection	 | **[ECCV' 20]** 
+- CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI)
 
-### Out-of-Distribution(OOD) Detction target
+### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
 - [**ODIN**] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks  | **[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | **[ICLR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1711.09325.pdf)
@@ -128,9 +131,19 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Likelihood Ratios for Out-of-Distribution Detection | **[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.02845.pdf)
 - Outlier Detection in Contingency Tables Using Decomposable Graphical Models | **[SJS' 19]** |  [`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1111/sjos.12407) [`[code]`](https://github.com/mlindsk/molic)
 - Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | **[ICLR' 20]** |  [`[pdf]`](https://openreview.net/pdf?id=SyxIWpVYvr)
+- Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks | **[ICML Workshop' 20]** |  [`[pdf]`](https://arxiv.org/abs/2007.03212)
 - Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)
-- A Boundary Based Out-Of-Distribution Classifier for Generalized Zero-Shot Learning | **[ECCV' 20]** 
-
+- A Boundary Based Out-Of-Distribution Classifier for Generalized Zero-Shot Learning | **[ECCV' 20]** |  [`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)
+- Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08473.pdf) | [`[code]`](https://gitlab.com/Bitterwolf/GOOD)
+- On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law  | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2005.09241.pdf)
+- Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2003.02977.pdf)
+- OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification | **[NeurIPS' 20]** 
+- Energy-based Out-of-distribution Detection | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2010.03759.pdf)
+- Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | **[NeurIPS' 20]** 
+- Why Normalizing Flows Fail to Detect Out-of-Distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.08545.pdf) | [`[code]`](https://github.com/PolinaKirichenko/flows_ood)
+- Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.10848.pdf)
+- Further Analysis of Outlier Detection with Deep Generative Models | **[NeurIPS' 20]** 
+- CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI)
 
 ### Unsupervised Anomaly Segmentation target
 - Anomaly Detection and Localization in Crowded Scenes  | **[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
@@ -160,7 +173,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Unsupervised anomaly segmentation via deep feature reconstruction  | **[Neurocomputing]**[`pdf`](https://www.sciencedirect.com/science/article/pii/S0925231220317951)['code'](https://github.com/YoungGod/DFR)
 
 ## Contact & Feedback
-If you have any suggenstions about papers, feel free to mail me :)
+If you have any suggestions about papers, feel free to mail me :)
 - [e-mail](mailto:Hoseong.Lee@cognex.com)
 - [blog](https://hoya012.github.io/)
 - [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls)
