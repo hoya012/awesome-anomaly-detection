@@ -157,6 +157,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images	 | **[ECCV' 20]** 
 - Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **[arxiv]**[ `pdf`](https://arxiv.org/pdf/2005.02357.pdf)[`code`](https://github.com/byungjae89/SPADE-pytorch)
 - Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arxiv]**[`pdf`](https://arxiv.org/pdf/2006.16067.pdf)[`code`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
+- Unsupervised anomaly segmentation via deep feature reconstruction  | **[Neurocomputing]**[`pdf`](https://www.sciencedirect.com/science/article/pii/S0925231220317951)['code'](https://github.com/YoungGod/DFR)
 
 ## Contact & Feedback
 If you have any suggenstions about papers, feel free to mail me :)
