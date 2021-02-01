@@ -71,6 +71,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD)
 - A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11887.pdf)
 - Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
+- Re Learning Memory Guided Normality for Anomaly Detection | **[Arxiv' 20]** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2101/2101.12382.pdf)
 
 ## Image-level anomaly detection
 
