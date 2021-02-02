@@ -119,6 +119,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI)
 - Deep Unsupervised Image Anomaly Detection: An Information Theoretic Framework | **[arXiv' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2012.04837.pdf) 
 - Regularizing Attention Networks for Anomaly Detection in Visual Question Answering | **[AAAI' 21]** |  [`[pdf]`](https://arxiv.org/abs/2009.10054) 
+- Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
