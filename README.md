@@ -123,6 +123,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Regularizing Attention Networks for Anomaly Detection in Visual Question Answering | **[AAAI' 21]** |  [`[pdf]`](https://arxiv.org/abs/2009.10054) 
 - Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
 - Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec)
+- Discriminative Multi-level Reconstruction under Compact Latent Space for One-Class Novelty Detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.01665)
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
