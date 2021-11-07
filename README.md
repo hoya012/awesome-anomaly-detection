@@ -73,6 +73,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11887.pdf)
 - Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
 - Re Learning Memory Guided Normality for Anomaly Detection | **[Arxiv' 20]** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2101/2101.12382.pdf)
+- Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM)
 
 ## Image-level anomaly detection
 
@@ -123,6 +124,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Regularizing Attention Networks for Anomaly Detection in Visual Question Answering | **[AAAI' 21]** |  [`[pdf]`](https://arxiv.org/abs/2009.10054) 
 - Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
 - Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec)
+- Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
@@ -180,6 +182,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Unsupervised anomaly segmentation via deep feature reconstruction  | **[Neurocomputing' 20]**| [`[pdf]`](https://www.sciencedirect.com/science/article/pii/S0925231220317951) | [`[code]`](https://github.com/YoungGod/DFR)
 - PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)
 - Explainable Deep One-Class Classification  | **[ICLR' 21**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd)
+- Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images  | **[MICCAI' 21**| [`[pdf]`](https://arxiv.org/pdf/2103.03423.pdf) | [`[code]`](https://github.com/tianyu0207/CCD)
 
 ## Contact & Feedback
 If you have any suggestions about papers, feel free to mail me :)
