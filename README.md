@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2020/12/16*
+*Last updated: 2021/11/17*
 
 ## What is anomaly detection?
 
@@ -47,6 +47,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Time Series Anomaly Detection; Detection of anomalous drops with limited features and sparse examples in noisy highly periodic data | **[arXiv' 17]** |   [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/1708/1708.03665.pdf)
 - Anomaly Detection in Multivariate Non-stationary Time Series for Automatic DBMS Diagnosis | **[ICMLA' 17]** | [`[pdf]`](https://arxiv.org/abs/1708.02635)
 - Truth Will Out: Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems  | **[ACM CCS '18]** | [`[pdf]`](https://research.chalmers.se/publication/507989/file/507989_Fulltext.pdf)
+- DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series | **[IEEE Access' 18]** | [`[pdf]`](https://ieeexplore.ieee.org/abstract/document/8581424)
 - Time-Series Anomaly Detection Service at Microsoft  | **[KDD' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1906.03821v1.pdf)
 - Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network  | **[KDD' 19]** |  [`[pdf]`](https://dl.acm.org/doi/10.1145/3292500.3330672)
 - A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS)
@@ -185,9 +186,10 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
 - Unsupervised anomaly segmentation via deep feature reconstruction  | **[Neurocomputing' 20]**| [`[pdf]`](https://www.sciencedirect.com/science/article/pii/S0925231220317951) | [`[code]`](https://github.com/YoungGod/DFR)
 - PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)
-- Explainable Deep One-Class Classification  | **[ICLR' 21**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd)
+- Explainable Deep One-Class Classification  | **[ICLR' 21]**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd)
 - Semi-orthogonal Embedding for Efficient Unsupervised Anomaly Segmentation | **[arXiv' 21]** [`[pdf]`](https://arxiv.org/pdf/2105.14737)
 - Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images  | **[MICCAI' 21]**| [`[pdf]`](https://arxiv.org/pdf/2103.03423.pdf) | [`[code]`](https://github.com/tianyu0207/CCD)
+- Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]**| [`[pdf]`](https://arxiv.org/abs/2011.11108)
 
 ## Contact & Feedback
 If you have any suggestions about papers, feel free to mail me :)
