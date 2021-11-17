@@ -181,12 +181,13 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf)
 - Attention Guided Anomaly Detection and Localization in Images | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
 - Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images	 | **[ECCV' 20]** 
-- Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **[arxiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch)
-- Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arxiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
+- Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch)
+- Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
 - Unsupervised anomaly segmentation via deep feature reconstruction  | **[Neurocomputing' 20]**| [`[pdf]`](https://www.sciencedirect.com/science/article/pii/S0925231220317951) | [`[code]`](https://github.com/YoungGod/DFR)
 - PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)
 - Explainable Deep One-Class Classification  | **[ICLR' 21**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd)
-- Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images  | **[MICCAI' 21**| [`[pdf]`](https://arxiv.org/pdf/2103.03423.pdf) | [`[code]`](https://github.com/tianyu0207/CCD)
+- Semi-orthogonal Embedding for Efficient Unsupervised Anomaly Segmentation | **[arXiv' 21]** [`[pdf]`](https://arxiv.org/pdf/2105.14737)
+- Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images  | **[MICCAI' 21]**| [`[pdf]`](https://arxiv.org/pdf/2103.03423.pdf) | [`[code]`](https://github.com/tianyu0207/CCD)
 
 ## Contact & Feedback
 If you have any suggestions about papers, feel free to mail me :)
