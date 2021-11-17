@@ -30,6 +30,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Anomalous Instance Detection in Deep Learning: A Survey | **[arXiv' 20]** |[`[pdf]`](https://arxiv.org/pdf/2003.06979.pdf)
 - Deep Learning for Anomaly Detection: A Review | **[arXiv' 20]** |[`[pdf]`](https://arxiv.org/pdf/2007.02500.pdf)
 - A Unifying Review of Deep and Shallow Anomaly Detection | **[arXiv' 20]** |[`[pdf]`](https://arxiv.org/abs/2009.11732)
+- A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges | **[arXiv' 21]** |[`[pdf]`](https://arxiv.org/pdf/2110.14051)
 
 ## Table of Contents
 - [Time-series anomaly detection](#time-series-anomaly-detection)
@@ -125,6 +126,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
 - Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec)
 - Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
+- Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD)
+
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
