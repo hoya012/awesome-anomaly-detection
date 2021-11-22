@@ -130,6 +130,9 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
 - Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD)
 - Elsa: Energy-based learning for semi-supervised anomaly detection | **[BMVC' 21]** | [`[pdf]`](https://arxiv.org/pdf/2103.15296.pdf) | [`[code]`](https://github.com/archon159/elsa)
+- Focus Your Distribution: Coarse-to-Fine Non-Contrastive Learning for Anomaly Detection and Localization | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2110.04538.pdf)
+- FastFlow: Unsupervised Anomaly Detection and Localization via 2D Normalizing Flows | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2111.07677.pdf)
+
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
