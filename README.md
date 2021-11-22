@@ -1,7 +1,7 @@
 # awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
-*Last updated: 2021/11/17*
+*Last updated: 2021/11/22*
 
 ## What is anomaly detection?
 
@@ -126,9 +126,10 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Regularizing Attention Networks for Anomaly Detection in Visual Question Answering | **[AAAI' 21]** |  [`[pdf]`](https://arxiv.org/abs/2009.10054) 
 - Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
 - Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec)
+- Discriminative Multi-level Reconstruction under Compact Latent Space for One-Class Novelty Detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.01665)
 - Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
 - Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD)
-
+- Elsa: Energy-based learning for semi-supervised anomaly detection | **[BMVC' 21]** | [`[pdf]`](https://arxiv.org/pdf/2103.15296.pdf) | [`[code]`](https://github.com/archon159/elsa)
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
