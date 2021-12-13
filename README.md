@@ -125,7 +125,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Regularizing Attention Networks for Anomaly Detection in Visual Question Answering | **[AAAI' 21]** |  [`[pdf]`](https://arxiv.org/abs/2009.10054) 
 - Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
 - Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec)
-- Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
+- Deep One-Class Classification via Interpolated Gaussian Descriptor | **[AAAI' 22]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
 - Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD)
 
 
