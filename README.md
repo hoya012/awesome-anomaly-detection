@@ -76,6 +76,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
 - Re Learning Memory Guided Normality for Anomaly Detection | **[Arxiv' 20]** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2101/2101.12382.pdf)
 - Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM)
+- Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection | **[MICCAI' 22]** | [`[pdf]`](https://arxiv.org/pdf/2203.12121.pdf) | [`[code]`](https://github.com/tianyu0207/weakly-polyp)
 
 ## Image-level anomaly detection
 
@@ -127,7 +128,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
 - Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec)
 - Discriminative Multi-level Reconstruction under Compact Latent Space for One-Class Novelty Detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.01665)
-- Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
+- Deep One-Class Classification via Interpolated Gaussian Descriptor | **[AAAI' 22]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
 - Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD)
 - Elsa: Energy-based learning for semi-supervised anomaly detection | **[BMVC' 21]** | [`[pdf]`](https://arxiv.org/pdf/2103.15296.pdf) | [`[code]`](https://github.com/archon159/elsa)
 
@@ -191,6 +192,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Semi-orthogonal Embedding for Efficient Unsupervised Anomaly Segmentation | **[arXiv' 21]** [`[pdf]`](https://arxiv.org/pdf/2105.14737)
 - Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images  | **[MICCAI' 21]**| [`[pdf]`](https://arxiv.org/pdf/2103.03423.pdf) | [`[code]`](https://github.com/tianyu0207/CCD)
 - Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]**| [`[pdf]`](https://arxiv.org/abs/2011.11108)
+- Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder  | **[arXiv' 22]**| [`[pdf]`](https://arxiv.org/pdf/2203.11725.pdf) | [`[code]`](https://github.com/tianyu0207/MemMC-MAE) 
+
 
 ## Contact & Feedback
 If you have any suggestions about papers, feel free to mail me :)
