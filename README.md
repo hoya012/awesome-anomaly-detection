@@ -1,4 +1,4 @@
-# awesome anomaly detection
+﻿# awesome anomaly detection
 A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
 
 *Last updated: 2021/11/22*
@@ -55,6 +55,11 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
 - Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network | **[NeurIPS' 20]** 
 - Anomaly Detection of Time Series With Smoothness-Inducing Sequential Variational Auto-Encoder | **[TNNLS' 20]**
+- DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection | **[KDD' 20]** | [`[pdf]`](https://dl.acm.org/doi/10.1145/3394486.3403339) [`[promo video]`](https://youtu.be/YhfxCHBNM2g)
+- Active Learning for Human-in-the-loop Customs Inspection | **[TKDE' 22]** | [`[pdf]`](https://ieeexplore.ieee.org/document/9695316) | [`[project page]`](https://ds.ibs.re.kr/bacuda/)
+- Customs Fraud Detection in the Presence of Concept Drift | **[ICDMW' 21]** | [`[pdf]`](https://arxiv.org/abs/2109.14155)  |  [`[talk]`](https://youtu.be/1J77DJPb0gE) 
+- Knowledge Sharing via Domain Adaptation in Customs Fraud Detection | **[AAAI' 22]** | [`[pdf]`](http://arxiv.org/abs/2201.06759) 
+
 
 ## Video-level anomaly detection
 - Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
