@@ -130,6 +130,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
 - Multiresolution Knowledge Distillation for Anomaly Detection | **[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD)
 - Elsa: Energy-based learning for semi-supervised anomaly detection | **[BMVC' 21]** | [`[pdf]`](https://arxiv.org/pdf/2103.15296.pdf) | [`[code]`](https://github.com/archon159/elsa)
+- Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection | **[ECCV' 22]** | [`[project]`] ( http://www.kind-of-works.com/LVAD_anomaly_detector.html) | [`[pdf]`] (http://www.kind-of-works.com/papers/LVAD_anomaly_detector.pdf) | [`[code]`](https://github.com/wen-yan-lin/LVAD-Locally-Varying-Anomaly-Detection)
 
 ### Out-of-Distribution(OOD) Detection target
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
