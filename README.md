@@ -1,5 +1,5 @@
 # awesome anomaly detection
-A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).  
+A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers).
 
 *Last updated: 2021/11/22*
 
@@ -11,9 +11,9 @@ A curated list of awesome anomaly detection resources. Inspired by [`awesome-arc
 
 Anomaly detection is a technique used to identify unusual patterns that do not conform to expected behavior, called outliers. Typically, this is treated as an unsupervised learning problem where the anomalous samples are not known a priori and it is assumed that the majority of the training dataset consists of “normal” data (here and elsewhere the term “normal” means *not anomalous* and is unrelated to the Gaussian distribution). [Lukas Ruff et al., 2018; Deep One-Class Classification]
 
-In general, Anomaly detection is also called `Novelty Detection` or `Outlier Detection`, `Forgery Detection` and `Out-of-distribution Detection`.   
+In general, Anomaly detection is also called `Novelty Detection` or `Outlier Detection`, `Forgery Detection` and `Out-of-distribution Detection`.
 
-Each term has slightly different meanings. Mostly, on the assumption that you do not have unusual data, this problem is especially called `One Class Classification`, `One Class Segmentation`.  
+Each term has slightly different meanings. Mostly, on the assumption that you do not have unusual data, this problem is especially called `One Class Classification`, `One Class Segmentation`.
 
 <p align="center">
   <img width="600" src="/assets/anomaly_detection_types.png" "Example of anomaly detection.">
@@ -21,9 +21,9 @@ Each term has slightly different meanings. Mostly, on the assumption that you do
 
 and `Novelty Detection` and `Outlier Detection` have slightly different meanings. Figure below shows the differences of two terms.
 
-Also, typically there are three types of target data. (`time-series data`, and `image data`, `video data`)  
-In time-series data, it is aimed to detect a abnormal sections. 
-In image, video data, it is aimed to classify abnormal images or to segment abnormal regions, for example, defect in some manufacturing data.  
+Also, typically there are three types of target data. (`time-series data`, and `image data`, `video data`)
+In time-series data, it is aimed to detect a abnormal sections.
+In image, video data, it is aimed to classify abnormal images or to segment abnormal regions, for example, defect in some manufacturing data.
 
 ## Survey Paper
 - Deep Learning for Anomaly Detection: A Survey  | **[arXiv' 19]** |[`[pdf]`](https://arxiv.org/pdf/1901.03407.pdf)
@@ -53,7 +53,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS)
 - BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time | **[IJCAI 19]** | [`[pdf]`](https://www.ijcai.org/Proceedings/2019/0616.pdf)
 - MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS)
-- Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network | **[NeurIPS' 20]** 
+- Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network | **[NeurIPS' 20]**
 - Anomaly Detection of Time Series With Smoothness-Inducing Sequential Variational Auto-Encoder | **[TNNLS' 20]**
 
 ## Video-level anomaly detection
@@ -73,9 +73,10 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection | **[ECCV' 20]** |[`[pdf]`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)
 - Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD)
 - A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels | **[IEEE SPL' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11887.pdf)
-- Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]** 
+- Few-Shot Scene-Adaptive Anomaly Detection	 | **[ECCV' 20]**
 - Re Learning Memory Guided Normality for Anomaly Detection | **[Arxiv' 20]** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2101/2101.12382.pdf)
 - Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM)
+- Consistency-based Self-supervised Learning for Temporal Anomaly Localization | **[ECCVW' 22]** | [`[pdf]`](https://arxiv.org/pdf/2208.05251) | [`[code]`](https://github.com/aimagelab/Consistency-based-Self-supervised-Learning-for-Temporal-Anomaly-Localization)
 
 ## Image-level anomaly detection
 
@@ -120,11 +121,11 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)
 - Deep End-to-End One-Class Classifier | **[IEEE TNNLS' 20]** |  [`[pdf]`](https://ieeexplore.ieee.org/document/9059022)
 - Mirrored Autoencoders with Simplex Interpolation for Unsupervised Anomaly Detection | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.10713)
-- Backpropagated Gradient Representations for Anomaly Detection	 | **[ECCV' 20]** 
+- Backpropagated Gradient Representations for Anomaly Detection	 | **[ECCV' 20]**
 - CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI)
-- Deep Unsupervised Image Anomaly Detection: An Information Theoretic Framework | **[arXiv' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2012.04837.pdf) 
-- Regularizing Attention Networks for Anomaly Detection in Visual Question Answering | **[AAAI' 21]** |  [`[pdf]`](https://arxiv.org/abs/2009.10054) 
-- Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676) 
+- Deep Unsupervised Image Anomaly Detection: An Information Theoretic Framework | **[arXiv' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2012.04837.pdf)
+- Regularizing Attention Networks for Anomaly Detection in Visual Question Answering | **[AAAI' 21]** |  [`[pdf]`](https://arxiv.org/abs/2009.10054)
+- Attribute Restoration Framework for Anomaly Detection | **[IEEE Transactions on Multimedia 21]** |  [`[pdf]`](https://arxiv.org/abs/1911.10676)
 - Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec)
 - Discriminative Multi-level Reconstruction under Compact Latent Space for One-Class Novelty Detection | **[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2003.01665)
 - Deep One-Class Classification via Interpolated Gaussian Descriptor | **[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD)
@@ -151,12 +152,12 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08473.pdf) | [`[code]`](https://gitlab.com/Bitterwolf/GOOD)
 - On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law  | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2005.09241.pdf)
 - Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2003.02977.pdf)
-- OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification | **[NeurIPS' 20]** 
+- OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification | **[NeurIPS' 20]**
 - Energy-based Out-of-distribution Detection | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2010.03759.pdf)
-- Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | **[NeurIPS' 20]** 
+- Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | **[NeurIPS' 20]**
 - Why Normalizing Flows Fail to Detect Out-of-Distribution Data | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.08545.pdf) | [`[code]`](https://github.com/PolinaKirichenko/flows_ood)
 - Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.10848.pdf)
-- Further Analysis of Outlier Detection with Deep Generative Models | **[NeurIPS' 20]** 
+- Further Analysis of Outlier Detection with Deep Generative Models | **[NeurIPS' 20]**
 - CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI)
 - SSD: A Unified Framework for Self-Supervised Outlier Detection | **[ICLR' 21]**  [`[pdf]`](https://openreview.net/forum?id=v5gjXpmR8J) | [`[code]`](https://github.com/inspire-group/SSD)
 
@@ -167,7 +168,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Real-Time Anomaly Detection and Localization in Crowded Scenes | **[CVPR Workshop' 15]** | [`[pdf]`](https://arxiv.org/pdf/1511.06936.pdf)
 - Learning Deep Representations of Appearance and Motion for Anomalous Event Detection  | **[BMVC' 15]** | [`[pdf]`](https://arxiv.org/pdf/1510.01553.pdf)
 - Scale-invariant anomaly detection with multiscale group-sparse models | **[IEEE ICIP' 16]** | [`[link]`](https://ieeexplore.ieee.org/document/7533089/)
-- [**AnoGAN**] Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery  | **[IPMI' 17]** | [`[pdf]`](https://arxiv.org/pdf/1703.05921.pdf) 
+- [**AnoGAN**] Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery  | **[IPMI' 17]** | [`[pdf]`](https://arxiv.org/pdf/1703.05921.pdf)
 - Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes | **[Journal of Computer Vision and Image Understanding' 17]** | [`[pdf]`](https://arxiv.org/pdf/1609.00866.pdf)
 - Anomaly Detection using a Convolutional Winner-Take-All Autoencoder | **[BMVC' 17]** |  [`[pdf]`](http://eprints.whiterose.ac.uk/121891/1/BMVC2017.pdf)
 - Anomaly Detection in Nanofibrous Materials by CNN-Based Self-Similarity  | **[Sensors' 17]** | [`[pdf]`](http://www.mdpi.com/1424-8220/18/1/209/pdf)
@@ -182,7 +183,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Exploiting Epistemic Uncertainty of Anatomy Segmentation for Anomaly Detection in Retinal OCT | **[IEEE TMI' 19]** |  [`[pdf]`](https://arxiv.org/pdf/1905.12806v1.pdf)
 - Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | **[CVPR' 20]** |  [`[pdf]`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf)
 - Attention Guided Anomaly Detection and Localization in Images | **[ECCV' 20]** |  [`[pdf]`](https://arxiv.org/pdf/1911.08616v1.pdf)
-- Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images	 | **[ECCV' 20]** 
+- Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images	 | **[ECCV' 20]**
 - Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch)
 - Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch)
 - Unsupervised anomaly segmentation via deep feature reconstruction  | **[Neurocomputing' 20]**| [`[pdf]`](https://www.sciencedirect.com/science/article/pii/S0925231220317951) | [`[code]`](https://github.com/YoungGod/DFR)
